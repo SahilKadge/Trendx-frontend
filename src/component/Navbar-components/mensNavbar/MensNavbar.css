@@ -1,0 +1,34 @@
+.mensnavbar-div{
+    display: flex;
+}
+.mensnavbar-image-section{
+    margin-top: 3rem;
+    margin-left: 6rem;
+    align-items: center;
+    text-align: center;
+}
+.mensnavbar-image{
+    height: 15rem;
+    width: 11.5rem;
+    
+}
+.mensnavbar-section-2{
+    margin-left: 6rem;
+}
+.mensnavbar-section-head{
+    /* font-weight: 500; */
+    margin-top: 1rem;
+}
+.mensnavbar-section-content{
+    font-weight: 100;
+    margin-top: 0.5rem;
+}
+.mensnavbar-section-3{
+    margin-left: 3rem;
+}
+.mensnavbar-section-4{
+    margin-left: 3rem;
+}
+.mensnavbar-section-5{
+    margin-left: 3rem;
+}

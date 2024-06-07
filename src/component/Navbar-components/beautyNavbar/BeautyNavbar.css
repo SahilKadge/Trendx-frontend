@@ -1,0 +1,38 @@
+.beautynavbar-div{
+    display: flex;
+}
+.beautynavbar-image-section{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    align-items: center;
+    text-align: center;
+}
+.beautynavbar-image{
+    height: 15rem;
+    width: 11.5rem;
+    background-color: gray;
+    margin-bottom: 1rem;
+}
+.beautynavbar-section-2{
+    margin-left: 6rem;
+}
+.beautynavbar-section-head{
+    /* font-weight: 500; */
+    margin-top: 1rem;
+}
+.beautynavbar-section-content{
+    font-weight: 100;
+    margin-top: 0.5rem;
+}
+.beautynavbar-section-3{
+    margin-left: 3rem;
+}
+.beautynavbar-section-4{
+    margin-left: 3rem;
+}
+.beautynavbar-section-5{
+    margin-left: 3rem;
+}
+.beautynavbar-section-6{
+    margin-left: 3rem;
+}

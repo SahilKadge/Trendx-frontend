@@ -1,0 +1,43 @@
+.container {
+  
+  width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.slideshow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+a{
+  display: inline-block;
+}
+.slides {
+ 
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+   
+}
+
+.prevButton,
+.nextButton {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.prevButton {
+  left: 10px;
+}
+
+.nextButton {
+  right: 10px;
+}

@@ -1,0 +1,43 @@
+.onlineOnly-section{
+    display: flex;
+    
+    height: auto;
+}
+.mens-section{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    align-items: center;
+    text-align: center;
+
+}
+.womens-section{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    
+    align-items: center;
+    text-align: center;
+}
+.onlineOnly-list{
+    margin-top: 2.5rem;
+    margin-left: 8rem;
+    border-bottom: 10px red;
+}
+.onlineOnly-list-items a{
+    margin-bottom: 0.5rem;
+    
+    
+}
+.onlineOnly-list-items a:hover{
+    border-bottom: 10px;
+    border-color: red;
+}
+.mens-section-image{
+    height: 15rem;
+    width: 11.5rem;
+   
+}
+.womens-section-image{
+    height: 15rem;
+    width: 11.5rem;
+    
+}

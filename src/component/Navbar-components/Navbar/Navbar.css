@@ -1,0 +1,183 @@
+header .logo a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
+}
+header .logo a:hover{
+    color: red;
+}
+.Navbar-div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    color: black;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    height: 20%;
+    width: 98%;
+    position: fixed;
+    z-index: 1000;
+    
+    
+    
+    
+}
+header{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    padding-left: 2rem;
+    padding-right: 3rem;
+    width: 90%;
+    height: auto;
+    
+    
+}
+header nav{
+    align-items: center;
+    align-content: center;
+    height: 4.5rem;
+    margin-left: 9rem;
+    margin-right: 0%;
+    
+}
+
+.navbar-container{
+    
+    align-items: center;
+    align-content: center;
+    width: 75%;
+    
+}
+.nav-list .nav-ul{
+    height: 100%;
+}
+.nav-list .nav-ul li{
+    display: inline-block;
+    list-style: none;
+    margin:0 25px;
+    
+}
+header .nav-ul li:last-child{
+    margin-right: 0;
+}
+.nav-list .nav-ul li a{
+    text-decoration: none;
+    color: gray ;
+    padding:  0;
+    display: inline-block;
+    transition: all ease 0.3s;
+    font-size: 15px;
+}
+.nav-list .nav-ul li a:hover{
+    color: red;
+}
+header ul .submenu{
+    position: absolute;
+    width: 85%;
+    height: 60%;
+    left: 5rem;
+    
+    margin-top: 3rem;
+    background-color: #ffffff;
+    box-shadow: 0 20px 45px #00000020;
+    margin-top: -50px;
+    opacity: 0;
+    z-index: -999;
+    transition: all ease 0.5s;
+   
+
+}
+
+header ul li:hover .submenu{
+    z-index: 99;
+    opacity: 1;
+    margin-top: 0;
+    position: fixed;
+    margin-top: 0.4rem;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    align-content:center;
+    padding-left: 15rem;
+    height: 100%;
+    
+}
+
+.search-bar input[type="text"] {
+    
+    font-size: 16px;
+    border: 1px solid gray;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+    border-radius: 1rem;
+    padding-left: 1rem;
+    margin-top: 15px;
+    width: 60%;
+    height: 2rem;
+    margin-bottom: 1rem;
+    background: transparent;
+    
+    
+}
+
+.search-bar button {
+    margin-left: 1rem;
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    color: gray;
+    cursor: pointer;
+    background: transparent;
+}
+
+.search-bar button:hover {
+    background-color: #218838;
+}
+.other-div{
+    width: auto;
+    display: flex;
+    padding-right: 1rem;
+}
+
+.other-div .other-content{
+    padding: 5px;
+    height: 2rem;
+    width:auto;
+}
+.icon-link-1 .icon {
+    font-size: 1.5rem;
+    width: 3rem;
+    padding-left: 1rem;
+    color: gray;
+}
+.icon-link-1 .icon:hover{
+    color: red;
+ }
+.icon-link-2 .icon {
+    font-size: 1.5rem;
+    width: 3rem;
+    color: gray;
+}
+.icon-link-2 .icon:hover{
+    color: red;
+ }
+.sign-in-link{
+    font-size: 1rem;
+    text-decoration: none;
+    color: gray;
+}
+.sign-in-link:hover{
+    color: red;
+ }
+.sign-in-navbar-div{
+    width: 4rem;
+    
+    
+}
+

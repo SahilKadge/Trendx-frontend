@@ -1,0 +1,35 @@
+.womensnavbar-div{
+    display: flex;
+}
+.womensnavbar-image-section{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    align-items: center;
+    text-align: center;
+}
+.womensnavbar-image{
+    height: 12rem;
+    width: 9rem;
+    background-color: gray;
+    margin-bottom: 1rem;
+}
+.womensnavbar-section-2{
+    margin-left: 6rem;
+}
+.womensnavbar-section-head{
+    /* font-weight: 500; */
+    margin-top: 1rem;
+}
+.womensnavbar-section-content{
+    font-weight: 100;
+    margin-top: 0.5rem;
+}
+.womensnavbar-section-3{
+    margin-left: 3rem;
+}
+.womensnavbar-section-4{
+    margin-left: 3rem;
+}
+.womensnavbar-section-5{
+    margin-left: 3rem;
+}

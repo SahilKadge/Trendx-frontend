@@ -1,0 +1,37 @@
+.kids-div{
+    display: flex;
+}
+.kids-image-section{
+    margin-top: 3rem;
+    margin-left: 5rem;
+    align-items: center;
+    text-align: center;
+}
+.kids-image{
+    height: 15rem;
+    width: 11.5rem;
+   
+}
+.kids-section-2{
+    margin-left: 6rem;
+}
+.kids-section-head{
+    /* font-weight: 500; */
+    margin-top: 1rem;
+}
+.kids-section-content{
+    font-weight: 100;
+    margin-top: 0.5rem;
+}
+.kids-section-3{
+    margin-left: 3rem;
+}
+.kids-section-4{
+    margin-left: 3rem;
+}
+.kids-section-5{
+    margin-left: 3rem;
+}
+.kids-section-6{
+    margin-left: 3rem;
+}

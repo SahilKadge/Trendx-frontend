@@ -1,0 +1,12 @@
+.navbarFooter-section{
+    display: flex;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.navbarFooter-content{
+    margin-left: 4rem;
+    font-weight: 100;
+}
+.navbarFooter-content a{
+    cursor: pointer;
+}
