@@ -17,7 +17,7 @@ export const Navbar = () => {
         <div className="Navbar-div">
       <header >
         <div className="logo">
-          <a href="#">Trendx</a>
+          <a href="/">Trendx</a>
         </div>
         <div className="navbar-container">
           <form className="search-bar">

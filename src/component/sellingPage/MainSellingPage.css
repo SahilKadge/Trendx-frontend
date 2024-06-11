@@ -1,4 +1,37 @@
-.mainSellingPage-div{
-    padding-top: 10rem;
-    padding-left: 2rem;
+.mainSellingPage-div {
+    padding-top: 10rem
+  }
+  
+  .mainSellingPage-cards {
+    margin-top: 8rem;
+    margin-left: 2rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem; /* Adjust the gap between cards as needed */
+  }
+.mainSellingPage-content{
+    margin-left: 2rem;
+    font-size: large;
+}
+
+.mainSellingPage-filter-sort{
+    display: flex;
+    text-decoration: underline;
+    margin-top: 2rem;
+    
+}
+.mainSellingPage-filter{
+    margin-left: 90%;
+    margin-right: 2%;
+    cursor: pointer;
+
+}
+.mainSellingPage-filter:hover{
+    color: red;
+}
+.mainSellingPage-sort{
+    cursor: pointer;
+}
+.mainSellingPage-sort:hover{
+    color: red;
 }

@@ -1,0 +1,27 @@
+.productCard-container{
+    height: 35rem;
+    width: 20rem;
+    margin-right: 2.5rem;
+    
+}
+.productCard-image{
+    
+    width: 20rem;
+    background-color: black;
+}
+.productCard-discription{
+    width: 20rem;
+    
+}
+.productCard-discription-brandname{
+    width: 100%;
+    color: gray;
+
+}
+.productCard-container-productname{
+    width: 100%;
+  
+}
+.productCard-discription-price{
+    width: 100%;
+}
